@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "snooze",
+  "base_artist": "wotaku",
+  "createdAt": "2025-12-02T14:15:34.704844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "T.V. Snooze",
+      "artist": "Nina Hagen",
+      "has_synced": false,
+      "path": "select/01_T.V._Snooze_Nina_Hagen.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Snooze",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/02_Snooze_SZA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Snooze",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/03_Snooze_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Snooze",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/04_Snooze_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Snooze Button",
+      "artist": "Snot",
+      "has_synced": true,
+      "path": "select/05_Snooze_Button_Snot.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Snooze Button",
+      "artist": "Snot",
+      "has_synced": false,
+      "path": "select/06_Snooze_Button_Snot.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hit The Snooze",
+      "artist": "The Living Tombstone",
+      "has_synced": true,
+      "path": "select/07_Hit_The_Snooze_The_Living_Tombstone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
+      "artist": "Agust D feat. Ryuichi Sakamoto & WOOSUNG",
+      "has_synced": true,
+      "path": "select/08_Snooze_(feat._Ryuichi_Sakamoto,_WOOSUNG_of_The_Rose)_Agust_D_feat._Ryuichi_Sakamoto_&_WOOSUNG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/09_Snooze_(feat._Ryuichi_Sakamoto,_WOOSUNG_of_The_Rose)_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Snooze (Pinto)",
+      "artist": "Cheats",
+      "has_synced": false,
+      "path": "select/10_Snooze_(Pinto)_Cheats.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Snooze (feat. Shiki)",
+      "artist": "wotaku",
+      "has_synced": true,
+      "path": "select/11_Snooze_(feat._Shiki)_wotaku.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Snooze",
+      "artist": "Agust D feat. Ryuichi Sakamoto & WOOSUNG",
+      "has_synced": true,
+      "path": "select/12_Snooze_Agust_D_feat._Ryuichi_Sakamoto_&_WOOSUNG.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Snooze (ft. Ryuichi Sakamoto, WOOSUNG of The Rose)",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/13_Snooze_(ft._Ryuichi_Sakamoto,_WOOSUNG_of_The_Rose)_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Snooze",
+      "artist": "Suchmos",
+      "has_synced": true,
+      "path": "select/14_Snooze_Suchmos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "snooze",
+      "artist": "wotaku, SHIKI",
+      "has_synced": false,
+      "path": "select/pl_01_snooze_wotaku,_SHIKI.txt"
+    }
+  ]
+}
